@@ -1,0 +1,15 @@
+{
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
+    },
+    "autoload": {
+        "classmap": [
+            "app/models"
+        ]
+    },
+    "require": {
+        "illuminate/database": "^8.83"
+    }
+}
